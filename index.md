@@ -5,7 +5,7 @@
 ### Projects
 
 [Common Scientific Code for Ventilator Analysis (VentMAP)](https://github.com/hahnicity/ventmap)
-<img src=images/ventmap.png?raw=true"/>
+<img src="images/ventmap.png?raw=true"/>
 
 ---
 
