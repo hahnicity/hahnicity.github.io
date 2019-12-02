@@ -2,7 +2,24 @@
 
 ---
 
-### Projects
+### Machine Learning Projects
+
+
+[Ventilator Mode Detection With Classical and Deep Learning](https://github.com/hahnicity/ventmode)
+<img src="images/ventmode.png?raw=true"/>
+
+---
+[Ventilator Asynchrony Detection With Classical ML](https://github.com/hahnicity/ucdpv_pva_ml)
+<img src="images/pva-ml-bar-charts.png?raw=true"/>
+
+---
+[Deep Learning For Chest X-Ray14](https://github.com/hahnicity/ucd-cxr)
+<img src="images/chestxray14.png?raw=true"/>
+
+---
+
+
+### Data Gathering and Visualization Work
 
 [Common Scientific Code for Ventilator Analysis (VentMAP)](https://github.com/hahnicity/ventmap)
 <img src="images/ventmap.png?raw=true"/>
