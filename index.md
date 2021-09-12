@@ -4,7 +4,14 @@
 
 ### Machine Learning Projects
 
+[Deep Learning For ARDS Detection with Ventilator Waveform Data](https://github.com/hahnicity/deepards)
+<img src="images/deepards-fig1.png?raw=true"/>
 
+---
+[Classical Machine Learning for ARDS Detection with Ventilator Waveform Data](https://github.com/hahnicity/ardsdetection)
+<img src="images/classical-ards-detection-fig1.png?raw=True"/>
+
+---
 [Ventilator Mode Detection With Classical and Deep Learning](https://github.com/hahnicity/ventmode)
 <img src="images/ventmode.png?raw=true"/>
 
