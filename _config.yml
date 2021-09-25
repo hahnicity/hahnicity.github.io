@@ -3,6 +3,7 @@ logo: "/images/greg-headshot-cropped.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer / Data Scientist with current focus on machine learning solutions to healthcare research and problems
   <br><br>
+  <a href="https://scholar.google.com/citations?user=QIIeDhwAAAAJ&hl=en">Google Scholar</a>
   <a href="https://www.linkedin.com/in/gregory-rehm-42074b47/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
